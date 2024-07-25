@@ -1,3 +1,13 @@
+# React JSON Display
+
+## Instructions for Compiling and Running the Application
+
+1. **Clone the Repository:**
+   ```bash
+   git clone https://github.com/Gogi2016/React-JSON-Display.git
+   cd React-JSON-Display
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
